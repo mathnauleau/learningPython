@@ -29,4 +29,4 @@ pip3 install bs4
 > Nommez une variable de manière claire et descriptive
 
 ## Useful links
-- Install [Python](https://www.python.org)
+- Install [PIP](https://pip.pypa.io/en/stable/cli/pip_install/)
